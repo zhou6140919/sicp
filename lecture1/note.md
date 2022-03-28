@@ -60,3 +60,32 @@ $$ space = O(x) $$
 
 We call this **Recursion**.
 
+In python I tried to produce fibonacci 35th number.
+By the first process, it took about 3 seconds. But it took about 2.3*10^-5 seconds by the second process.
+
+```python
+# 9227465 2.84971022605896
+# 9227465 2.3126602172851562e-05
+```
+
+## Difference between Iteration and Recursion
+
+An iteration is a system that has all of its state in explicit variables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
